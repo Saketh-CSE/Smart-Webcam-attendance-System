@@ -32,7 +32,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Saketh-CSE/Smart-Webcam-attendance-System?tab=readme-ov-file)
 cd your-repo-name
 Install Python dependencies:
 
